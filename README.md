@@ -1,6 +1,6 @@
-# Hi 👋, I'm Duoer🐕
+# Hi 👋, I'm Doris🐕
 
-I am currently a Master of Public Policy candidate at McCourt School of Public Policy, Georgetown University.
+I have a Master of Public Policy (MPP) degree from Georgetown University, McCourt School of Public Policy, and a B.A. in Biology from Colby College!
 
 -  🌱 I’m interested in quantitative and qualitative policy analysis and am passionate about creating data-driven policy solutions to real-world challenges.
 -  👩‍💻 My most recent project trains a predictive model for crime rate in the U.S. in 2016 using tidymodels in R.
