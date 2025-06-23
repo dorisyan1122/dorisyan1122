@@ -1,14 +1,10 @@
 # Hi 👋, I'm Doris🐕
 
-I have a Master of Public Policy (MPP) degree from Georgetown University, McCourt School of Public Policy, and a B.A. in Biology from Colby College!
-
--  🌱 I’m interested in quantitative and qualitative policy analysis and am passionate about creating data-driven policy solutions to real-world challenges.
--  👩‍💻 My most recent project trains a predictive model for crime rate in the U.S. in 2016 using tidymodels in R.
--  😄 Pronouns: she/her/hers
+I am a data and research analyst with a Master of Public Policy from Georgetown University. I specialize in transforming large, complex datasets into clear insights using tools like R, Stata, SQL, Tableau, and Excel. My work spans education, health, transportation, and public finance, with a focus on data visualization, statistical modeling, and applied research.
 
 # How to reach me
 - email: dy212@georgetown.edu
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/duoer-yan-220b96179/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/duoer-yan/)
 
 <!---
 dorisyan1122/dorisyan1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
